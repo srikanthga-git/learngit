@@ -1,3 +1,4 @@
 Testing git
 1st change done
 2nd change done
+Updating the file to pull it using git pull to local
